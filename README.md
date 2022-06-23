@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
 
-##Introduction
+## Introduction
 
 
-##EDUCATION
-2016.03~2022.08 Seoul National University of Science and Technology
-2022.09 ~       
+## EDUCATION  
+-B.S. in Electrical and information Engineering, Seoul National University of Science and Technology. 2022  
+-Intergrated in M.S/Ph.D in Artificial Intelligence, Sungkyunkwan Univ. 2022~
 
 ## Tech Stack
 ![header](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<informational>)
