@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=welcome%20&fontSize=90)
 
+##Introduction
+
+
+##EDUCATION
+2016.03~2022.08 Seoul National University of Science and Technology
+2022.09 ~       
 
 ## Tech Stack
 ![header](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<informational>)
