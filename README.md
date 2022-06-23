@@ -8,6 +8,10 @@
 I'm in interested in Computer Vision  
 My Research interest is Multi-task learning, self-supervised learning, low-dose CT
 
+## Blog & HomePage  
+Tech Blog : https://ddo-code.tistory.com/  
+HomePage : ...  
+
 
 ## EDUCATION  
 - B.S. in Electrical and information Engineering, Seoul National University of Science and Technology. 2022  
