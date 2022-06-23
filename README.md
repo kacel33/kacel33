@@ -16,4 +16,4 @@
 
 ## Contact  
 Feel free to contact me  
-- kacel33@g.skku.edu
+kacel33@g.skku.edu
