@@ -22,8 +22,8 @@ HomePage : ...
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kacel33)](https://solved.ac/kacel33)  
 
-
-https://img.shields.io/badge/python-advanced-brightgreen
+<img src="https://img.shields.io/badge/python-Advanced-brightgreen">  <img src="https://img.shields.io/badge/C-Intermediate-brightgreen">
+<img src="https://img.shields.io/badge/C++-Intermediate-brightgreen">
 
 ## Contact  
 Feel free to contact me  
