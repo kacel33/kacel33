@@ -4,8 +4,8 @@
 
 
 ## EDUCATION  
--B.S. in Electrical and information Engineering, Seoul National University of Science and Technology. 2022  
--Intergrated in M.S/Ph.D in Artificial Intelligence, Sungkyunkwan Univ. 2022~
+- B.S. in Electrical and information Engineering, Seoul National University of Science and Technology. 2022  
+- Intergrated in M.S/Ph.D in Artificial Intelligence, Sungkyunkwan Univ. 2022~
 
 ## Tech Stack
 ![header](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<informational>)
