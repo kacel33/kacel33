@@ -4,7 +4,9 @@
 
 
 ## Introduction  
+
 I'm in interested in Computer Vision  
+My Research interest is Multi-task learning, self-supervised learning, low-dose CT
 
 
 ## EDUCATION  
